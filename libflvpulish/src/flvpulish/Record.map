@@ -1,0 +1,10 @@
+{
+	global: 
+		RECORD_Open;
+		RECORD_SetAudioInfo;
+		RECORD_SetVideoInfo;
+		RECORD_RecordPush;
+		RECORD_RecordDestory;
+	
+	local: *;
+};
