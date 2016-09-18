@@ -1,0 +1,8 @@
+<2016-09-18 Sun>   
+* uuid
+** depends
+   uuid-c++-devel.i686
+** library
+   -lossp-uuid++
+
+
